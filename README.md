@@ -37,7 +37,7 @@
 
 ## 📚 Reference
 
-- [![VagabondK.Protocols: LS ELECTRIC FEnet Protocol Library (GitHub)](https://img.shields.io/badge/VagabondK.Protocols%3A%20LS%20ELECTRIC%20FEnet%20Protocol%20Library%20%28GitHub%29-181717?logo=github&logoColor=white)](https://github.com/Vagabond-K/VagabondK.Protocols)
+[![VagabondK.Protocols: LS ELECTRIC FEnet Protocol Library (GitHub)](https://img.shields.io/badge/VagabondK.Protocols%3A%20LS%20ELECTRIC%20FEnet%20Protocol%20Library%20%28GitHub%29-181717?logo=github&logoColor=white)](https://github.com/Vagabond-K/VagabondK.Protocols)
 
 ---
 
