@@ -1,12 +1,10 @@
-## Digital Twin-Pyro Process Mockup
+# Digital Twin-Pyro Process Mockup
 
 디지털 트윈 기반 초저습 드라이목업을 활용한 **파이로프로세싱(Pyroprocessing) 실험실 자동화 및 VR 제어** 프로젝트
 
-## 🎥 Demo
-[![Unity 디지털 트윈](https://img.shields.io/badge/Unity_디지털_트윈-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=DQgke5uXlOg)
-[![Unity 디지털 트윈+VR](https://img.shields.io/badge/Unity_디지털_트윈+VR-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/N6-VXnxK1QI)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtu.be/DQgke5uXlOg?si=jJ6WvMc6aeMLLup1)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtu.be/N6-VXnxK1QI)
 
----
 
 ## ⚙️ Environment
 
@@ -39,7 +37,7 @@
 
 ## 📚 Reference
 
-- [VagabondK.Protocols: LS ELECTRIC FEnet Protocol Library (GitHub)](https://github.com/Vagabond-K/VagabondK.Protocols)
+- [![VagabondK.Protocols: LS ELECTRIC FEnet Protocol Library (GitHub)](https://img.shields.io/badge/VagabondK.Protocols%3A%20LS%20ELECTRIC%20FEnet%20Protocol%20Library%20%28GitHub%29-181717?logo=github&logoColor=white)](https://github.com/Vagabond-K/VagabondK.Protocols)
 
 ---
 
